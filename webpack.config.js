@@ -3,7 +3,7 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
 	entry: {
-		'AutocompleteBadges.js': './src/AutocompleteBadges.js',
+		'autocompleteBadges.js': './src/AutocompleteBadges.js',
 		'autocompleteBadges.css': './src/autocompleteBadges.scss'
 	},
 	module: {
