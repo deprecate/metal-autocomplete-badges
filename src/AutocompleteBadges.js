@@ -210,4 +210,5 @@ const KEY_CODE_RIGTH_ARROW 		= 39;
 const KEY_CODE_BACKSPACE 			= 8;
 const KEY_CODE_ENTER					= 13;
 
+export { AutocompleteBadges };
 export default AutocompleteBadges;
